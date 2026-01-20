@@ -1,0 +1,7 @@
+pwd
+ls
+cd
+ln -s
+ls -ha
+griphen
+mweene
